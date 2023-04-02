@@ -8,7 +8,7 @@
     <link href="/2023/04/02/thelifeofuniversity/"/>
     <url>/2023/04/02/thelifeofuniversity/</url>
     
-    <content type="html"><![CDATA[<h1 id="大学旅途"><a href="#大学旅途" class="headerlink" title="大学旅途"></a>大学旅途</h1><p>​仔细思考大学这一段旅途，何其艰辛，何其苦痛。然而如今想来，宛若是一场大梦，其中几经波折，有新冠病毒来时的无奈，有带病考试的坚韧，也有取得竞赛成绩时的激动。这一年来，在这个桌子，在这间屋子，不知已经行文多少，其中多少泪滴，多少无奈。</p><p>​如果说大一还是懵懵懂懂，只是停留在高中，怀着对大学的美的期望的话。大二乃至之后的时光才让我快速的成熟起来。西交独特的培养方式，大一是大类招生，来自各地的朋友聚在一起，交流着，每天只是需要温习功课，便可以得到前100名这样的好成绩。大二进入自动化之后，才逐渐感受到什么叫做厮杀，什么叫做拼搏，但是行进至了今天，我也逐渐明白了一个道理，所谓有天才一鸣惊人，但也有笨鸟后飞。</p><p>​人生本是长跑，有人在路途中跌倒，但站起来走下去，总是不会错的。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="大学旅途"><a href="#大学旅途" class="headerlink" title="大学旅途"></a>大学旅途</h1><p>​仔细思考大学这一段旅途，何其艰辛，何其苦痛。然而如今想来，宛若是一场大梦，其中几经波折，有新冠病毒来时的无奈，有带病考试的坚韧，也有取得竞赛成绩时的激动。这一年来，在这个桌子，在这间屋子，不知已经行文多少，其中多少泪滴，多少无奈。</p><p>​如果说大一还是懵懵懂懂，只是停留在高中，怀着对大学的美的期望的话。大二乃至之后的时光才让我快速的成熟起来。西交独特的培养方式，大一是大类招生，来自各地的朋友聚在一起，交流着，每天只是需要温习功课，便可以得到前100名这样的好成绩。大二进入自动化之后，才逐渐感受到什么叫做厮杀，什么叫做拼搏，但是行进至了今天，我也逐渐明白了一个道理，所谓有天才一鸣惊人，但也有笨鸟后飞。</p><p>​人生本是长跑，有人在路途中跌倒，但站起来走下去，总是不会错的。人生本是长跑，有人在路途中跌倒，但站起来走下去，总是不会错的。如果让我回顾这段大学时光，请允许我用竞赛，升学，求职，登山这四个主题一一叙说。先从一个轻松的话题谈起吧。</p><h2 id="登山"><a href="#登山" class="headerlink" title="登山"></a>登山</h2><p>​任何欣赏过秦岭雄伟姿态的人，总是有一种渴望前行其中的冲动。尤其是长安人，从小时起浸染在中国的唐诗文化之中了 ，有王维的独坐深山之中，又怎能不让我心驰神往。秦岭72峪口，有近山，远山之分，至今想起当初第一次攀登之东梁，确是极其痛苦的。</p><p>​![](C:\Users\rongk\Downloads\Compressed\【一刻相册】17时38分-批量下载 2 项\album\IMG_20201007_194033.jpg)</p><img src="C:\Users\rongk\Downloads\Compressed\【一刻相册】17时38分-批量下载 2 项\album\IMG_20201007_145736.jpg" alt="IMG_20201007_145736" style="zoom: 25%;" /><p>然而此间旅程</p>]]></content>
     
     
     <categories>
@@ -27,19 +27,6 @@
       <tag>感动</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2023/04/01/hello-world/"/>
-    <url>/2023/04/01/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
     
   </entry>
   
