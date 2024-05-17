@@ -6,8 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year graduate student from the [School of Automation Science and Engineering](http://automation.xjtu.edu.cn), [Xi'an Jiaotong University](http://www.xjtu.edu.cn). My research interests include diffusion generative models, optimal transport, offline reinforcement learning, and imitation learning.
+I am a first-year graduate student from the [School of Automation Science and Engineering](http://automation.xjtu.edu.cn), [Xi'an Jiaotong University](http://www.xjtu.edu.cn).I am very fortunate to be advised by [Prof. Jing Yang](https://gr.xjtu.edu.cn/web/yangjing)
 
-I am very fortunate to be advised by [Prof. Jing Yang](https://gr.xjtu.edu.cn/web/yangjing) at the [School of Automation Science and Engineering](http://automation.xjtu.edu.cn), XJTU University.Currently, I am conducting research internships at the Decision Intelligence Lab, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn).
+My research interest includes: 
+- Diffusion generative models
+- Optimal transport
+- Offline reinforcement learning
+- Muilt agent system
+- Imitation learning
+- Offline reinforcement learning
 
 Feel free to contact me via [Email](mailto:rongkunxue@outlook.com) or check out my profiles on [Github](https://github.com/rongkunxue), [Wechat](../images/wechat.JPG)
+
+# 🎓 Educations 
+- *2019.06 - 2023.12*, School of Automation Science and Engineering, Xi'an Jiaotong University, Xi'an China. 
+- *2013.09 - present*, School of Automation Science and Engineering, Xi'an Jiaotong University, Xi'an China. 
+
+# 🏭 Internships
+- *2023.03 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn), Shanghai China.
