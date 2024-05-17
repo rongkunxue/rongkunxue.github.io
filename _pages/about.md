@@ -10,4 +10,4 @@ I am a first-year graduate student from the [School of Automation Science and En
 
 I am very fortunate to be advised by [Prof. Jing Yang](https://gr.xjtu.edu.cn/web/yangjing) at the [School of Automation Science and Engineering](http://automation.xjtu.edu.cn), XJTU University.Currently, I am conducting research internships at the Decision Intelligence Lab, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn).
 
-Feel free to contact me via [Email](rongkunxue@outlook.com) or check out my profiles on [Github](https://github.com/rongkunxue), [Wechat](../images/wechat.jpg)
+Feel free to contact me via [Email](mailto:rongkunxue@outlook.com) or check out my profiles on [Github](https://github.com/rongkunxue), [Wechat](../images/wechat.JPG)
