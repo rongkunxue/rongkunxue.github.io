@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year graduate student from the [School of Automation Science and Engineering](http://automation.xjtu.edu.cn/en), [Xi'an Jiaotong University](http://www.xjtu.edu.cn/en).I am very fortunate to be advised by [Prof. Jing Yang](https://gr.xjtu.edu.cn/en/web/yangjing)
+I am a first-year graduate student from the [School of Automation Science and Engineering](http://automation.xjtu.edu.cn), [Xi'an Jiaotong University](http://en.xjtu.edu.cn).I am very fortunate to be advised by [Prof. Jing Yang](https://gr.xjtu.edu.cn/en/web/yangjing)
 
 My research interest includes: 
 - Diffusion generative models
